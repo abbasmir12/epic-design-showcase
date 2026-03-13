@@ -105,7 +105,7 @@ It's not about generating more code — it's about generating **better experienc
 
 The epic-design skill is open source and contribution-ready:
 
-1. **Get the skill:** [epic-design repository](https://github.com/abbasmir12/epic-design)
+1. **Get the skill:** [epic-design repository](https://github.com/abbasmir12/claude-skills/tree/feat/epic-design/engineering-team/epic-design)
 2. **Use with Claude Code, Cursor, or any AI coding tool**
 3. **Provide product assets** — PNG images with transparent backgrounds work best
 4. **Build cinematic websites in minutes, not hours**
@@ -142,7 +142,7 @@ Skills give AI that knowledge.
 
 ## Credits
 
-**Skill:** [epic-design](https://github.com/abbasmir12/epic-design)  
+**Skill:** [epic-design](https://github.com/abbasmir12/claude-skills/tree/feat/epic-design/engineering-team/epic-design)  
 **Built by:** Abbas Mir  
 **Repository:** [epic-design-showcase](https://github.com/abbasmir12/epic-design-showcase)
 
