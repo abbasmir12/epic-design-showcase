@@ -99,7 +99,7 @@ It's not about generating more code — it's about generating **better experienc
 
 ### View the Live Demo
 
-[View Demo](https://abbasmir12.github.io/epic-design-showcase/)
+**[View Demo](https://epic-design-showcase.vercel.app/)**
 
 ### Use the Skill
 
@@ -107,7 +107,15 @@ The epic-design skill is open source and contribution-ready:
 
 1. **Get the skill:** [epic-design repository](https://github.com/abbasmir12/epic-design)
 2. **Use with Claude Code, Cursor, or any AI coding tool**
-3. **Build cinematic websites in minutes, not hours**
+3. **Provide product assets** — PNG images with transparent backgrounds work best
+4. **Build cinematic websites in minutes, not hours**
+
+**Pro tip:** The skill includes an asset inspection pipeline that analyzes your images and recommends depth assignments. For best results, provide:
+- Product images (bottles, devices, objects) as transparent PNGs
+- Multiple assets at different sizes for compositional hierarchy
+- Background images or textures for depth-0 layer
+
+The AI will inspect each asset, judge whether backgrounds need removal, and assign optimal depth levels automatically.
 
 ### What You Can Build
 
