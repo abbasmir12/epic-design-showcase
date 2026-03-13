@@ -12,7 +12,7 @@ Most AI coding tools build functional websites — but they lack soul. You get w
 
 This isn't another AI-generated template. This is what happens when AI has **domain expertise** — when it understands cinematic design, scroll storytelling, and the psychology of depth.
 
-Built using the **[epic-design skill](https://github.com/abbasmir12/epic-design)** — a production-ready skill package that teaches AI to think like an Awwwards-winning designer.
+Built using the **epic-design skill** from the [claude-skills repository](https://github.com/alirezarezvani/claude-skills) — an open-source collection of production-ready skills maintained by the community.
 
 ### What Makes This Different
 
@@ -56,7 +56,9 @@ Built using the **[epic-design skill](https://github.com/abbasmir12/epic-design)
 
 ## The Epic Design Skill
 
-This site was built by Claude AI using the **epic-design skill** — a comprehensive instruction package that gives AI the knowledge to build cinematic web experiences.
+This site was built by Claude AI using the **epic-design skill** — part of the [claude-skills repository](https://github.com/alirezarezvani/claude-skills), an open-source library of 177+ production-ready skills for AI coding agents.
+
+Epic-design is a comprehensive instruction package that gives AI the knowledge to build cinematic web experiences.
 
 ### What the Skill Includes
 
@@ -103,12 +105,13 @@ It's not about generating more code — it's about generating **better experienc
 
 ### Use the Skill
 
-The epic-design skill is open source and contribution-ready:
+Epic-design is part of the open-source [claude-skills repository](https://github.com/alirezarezvani/claude-skills):
 
-1. **Get the skill:** [epic-design repository](https://github.com/abbasmir12/claude-skills/tree/feat/epic-design/engineering-team/epic-design)
-2. **Use with Claude Code, Cursor, or any AI coding tool**
-3. **Provide product assets** — PNG images with transparent backgrounds work best
-4. **Build cinematic websites in minutes, not hours**
+1. **Get the skill:** [epic-design in claude-skills](https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/epic-design)
+2. **Install:** Follow the [installation guide](https://github.com/alirezarezvani/claude-skills#quick-install)
+3. **Use with:** Claude Code, Cursor, Aider, Windsurf, or any AI coding tool
+4. **Provide product assets** — PNG images with transparent backgrounds work best
+5. **Build cinematic websites in minutes, not hours**
 
 **Pro tip:** The skill includes an asset inspection pipeline that analyzes your images and recommends depth assignments. For best results, provide:
 - Product images (bottles, devices, objects) as transparent PNGs
@@ -142,9 +145,10 @@ Skills give AI that knowledge.
 
 ## Credits
 
-**Skill:** [epic-design](https://github.com/abbasmir12/claude-skills/tree/feat/epic-design/engineering-team/epic-design)  
-**Built by:** Abbas Mir  
-**Repository:** [epic-design-showcase](https://github.com/abbasmir12/epic-design-showcase)
+**Skill:** [epic-design](https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/epic-design) from [claude-skills](https://github.com/alirezarezvani/claude-skills)  
+**Showcase built by:** Abbas Mir  
+**Showcase repository:** [epic-design-showcase](https://github.com/abbasmir12/epic-design-showcase)  
+**Main repository:** [claude-skills](https://github.com/alirezarezvani/claude-skills) (177+ skills, 4.8k+ stars)
 
 ---
 
