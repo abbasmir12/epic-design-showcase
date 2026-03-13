@@ -17,17 +17,17 @@ Built using the **[epic-design skill](https://github.com/abbasmir12/epic-design)
 ### What Makes This Different
 
 **Generic AI sites:**
-- ❌ Flat, static sections
-- ❌ Basic fade-in animations
-- ❌ No depth or spatial awareness
-- ❌ Feels like a template
+- Flat, static sections
+- Basic fade-in animations
+- No depth or spatial awareness
+- Feels like a template
 
 **Epic Design sites:**
-- ✅ 6-layer depth system with real parallax
-- ✅ Scroll-driven storytelling
-- ✅ Cinematic text animations (13 techniques)
-- ✅ Apple/Awwwards-level polish
-- ✅ Feels handcrafted by a senior designer
+- 6-layer depth system with real parallax
+- Scroll-driven storytelling
+- Cinematic text animations (13 techniques)
+- Apple/Awwwards-level polish
+- Feels handcrafted by a senior designer
 
 ---
 
@@ -43,16 +43,14 @@ Built using the **[epic-design skill](https://github.com/abbasmir12/epic-design)
 
 ### What's Inside
 
-```
-✨ 6-layer depth system (depth-0 to depth-5)
-🎬 Elastic drop entrance with impact shake
-👻 Ghost outlined background text
-💫 Word-by-word scroll lighting
-🎯 Scrub timeline (scroll = animation frames)
-🌊 Float loops on all depth layers
-📱 Mobile-optimized with reduced effects
-♿ Accessibility built-in from day one
-```
+- 6-layer depth system (depth-0 to depth-5)
+- Elastic drop entrance with impact shake
+- Ghost outlined background text
+- Word-by-word scroll lighting
+- Scrub timeline (scroll = animation frames)
+- Float loops on all depth layers
+- Mobile-optimized with reduced effects
+- Accessibility built-in from day one
 
 ---
 
@@ -101,7 +99,7 @@ It's not about generating more code — it's about generating **better experienc
 
 ### View the Live Demo
 
-👉 **[View Demo](https://abbasmir12.github.io/epic-design-showcase/)**
+[View Demo](https://abbasmir12.github.io/epic-design-showcase/)
 
 ### Use the Skill
 
@@ -134,32 +132,10 @@ Skills give AI that knowledge.
 
 ---
 
-## Technical Details
-
-**Built with:**
-- HTML5, CSS3, JavaScript (ES6+)
-- GSAP 3.12.5 (ScrollTrigger, Flip)
-- No build process required
-- Works in all modern browsers
-
-**Performance:**
-- 60fps scroll animations
-- GPU-accelerated transforms
-- Lazy-loaded depth layers
-- Mobile-optimized
-
-**Accessibility:**
-- WCAG 2.1 AA compliant
-- Reduced-motion support
-- Semantic HTML
-- Screen reader friendly
-
----
-
 ## Credits
 
 **Skill:** [epic-design](https://github.com/abbasmir12/epic-design)  
-**Built by:** Claude AI with epic-design skill  
+**Built by:** Abbas Mir  
 **Repository:** [epic-design-showcase](https://github.com/abbasmir12/epic-design-showcase)
 
 ---
